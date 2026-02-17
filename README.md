@@ -1,2 +1,2 @@
-# psSCMAGRO
-projeto-SCMAGRO
+# psSCM
+projeto_SCM26
